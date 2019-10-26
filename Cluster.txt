@@ -6,3 +6,8 @@ Courses list:
 Java
 C#
 Advanced Java
+
+Total Fees
+12000
+13000
+14000
